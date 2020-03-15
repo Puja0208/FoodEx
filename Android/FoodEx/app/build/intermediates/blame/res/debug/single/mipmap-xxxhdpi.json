@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/pooja/AndroidStudioProjects/FoodEx/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/pooja/AndroidStudioProjects/FoodEx/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,15 @@
+DROP TABLE stud_password;
+DROP TABLE canteen_password;
+DROP TABLE canteen_account;
+DROP TABLE reviews;
+DROP TABLE bills;
+DROP TABLE "order";
+DROP TABLE account;
+DROP TABLE pending_dish_list;
+DROP TABLE menu;
+DROP TABLE canteen;
+DROP TABLE dish;
+DROP TABLE student;
+DROP TABLE notification;
+DROP SEQUENCE dishid;
+DROP SEQUENCE account_id;

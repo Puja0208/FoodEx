@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="06f7193d66e3358a30d600bbf43fe903fff5c19c">
+        <dex dex="/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1be2f3ee76caaa734293746a312743e07bc84db2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b85c49668880218452ad5ecbca72c5e797c3853/classes.dex" />
+    </item>
+
+</items>

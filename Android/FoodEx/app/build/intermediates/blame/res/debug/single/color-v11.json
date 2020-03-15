@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/pooja/.android/build-cache/7d1c0f5d80697cfe2324f6933a55a398773ebfe2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/pooja/.android/build-cache/7d1c0f5d80697cfe2324f6933a55a398773ebfe2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Nov 07 12:23:17 IST 2017
+base.0=/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1be2f3ee76caaa734293746a312743e07bc84db2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b85c49668880218452ad5ecbca72c5e797c3853/classes.dex
+base.1=/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b85c49668880218452ad5ecbca72c5e797c3853
+file.0=/home/pooja/AndroidStudioProjects/FoodEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1be2f3ee76caaa734293746a312743e07bc84db2/classes.dex
